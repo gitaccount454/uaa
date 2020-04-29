@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.qssi.uaa"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.qssi.uaa",
+    "packageFolder": "com/qssi/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTFmYTM3ZWNjNDQzYmY4ZTViZjMwMmE3Yjc1MzJkNTM5MTgxNTg4YzU1MjIyN2FlNjQyNDQ3MTZjNmJhMDU3ZDRkOGM4YTUzMGMwN2IyMWFjOWU2NmE2ZDU0NmJlOGYwNGMyNmY3MTA3YmJiZjJjN2Y3MTRmM2MyNWQ2ZDQwMWM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1588172503746,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
